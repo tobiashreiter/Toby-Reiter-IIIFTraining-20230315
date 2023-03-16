@@ -11,5 +11,9 @@
       "en" : [ "Box 1, Folder 1: A-Al, 1920-1922" ]
     },
     "type" : "Manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://tobiashreiter.github.io/Toby-Reiter-IIIFTraining-20230315/manifests/manifest.json",
+    "label" : "Box 1, Folder 1: A-Al, 1920-1922"
   } ]
 }
