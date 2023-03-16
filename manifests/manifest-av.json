@@ -1,0 +1,101 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://tobiashreiter.github.io/Toby-Reiter-IIIFTraining-20230315/manifests/manifest-av.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Audio excerpt: Oral history interview with Evelyn Statsinger, 2015 May 11-13" ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "en" : [ "Title" ]
+    },
+    "value" : {
+      "en" : [ "Audio excerpt: Oral history interview with Evelyn Statsinger, 2015 May 11-13" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Summary" ]
+    },
+    "value" : {
+      "en" : [ "An interview with Evelyn Statsinger, conducted 2015 May 11-13, by Lanny Silverman, for the Archives of American Art's Chicago Art and Artists: Oral History Project, at Statsinger's studio in Chicago, Illinois.", "Statsinger speaks of studying at the High School of Museum and Arts in New York, the Art Students League, and the School of the Art Institute of Chicago; showing at Chicago galleries, including Frumkin, Artemisia, Kovler, and Jan Cicero; how her work fits in with contemporary Chicago artists, including Monster Roster and Imagists; the use of ambiguity in her work; how her travels in Japan and Mexico influenced her style; Japanese theater; and contemporary art and popular culture. Statsinger also recalls Ossip Zadkine, Katherine Kuh, Carl Schniewind, Mies van der Rohe, Leon Golub, Kathleen Blackshear, and others." ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Oral History ID" ]
+    },
+    "value" : {
+      "en" : [ "16267" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Location" ]
+    },
+    "value" : {
+      "en" : [ "Archives of American Art, Smithsonian Institution, 750 9th St. NW, Washington, D.C. 20001" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Permalinks" ]
+    },
+    "value" : {
+      "en" : [ "https://www.aaa.si.edu/collections/interviews/oral-history-interview-evelyn-statsinger-16267" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Terms of Use" ]
+    },
+    "value" : {
+      "en" : [ "<a href='http://si.edu/termsofuse' target='_blank'>Smithsonian Terms of Use</a>" ]
+    }
+  } ],
+  "items" : [ {
+    "id" : "https://www.aaa.si.edu/collections/interviews/oral-history-interview-evelyn-statsinger-16267/canvas/p1",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "Audio excerpt: Oral history interview with Evelyn Statsinger, 2015 May 11-13" ]
+    },
+    "duration" : 300.0,
+    "accompanyingCanvas" : {
+      "id" : "https://www.aaa.si.edu/collections/interviews/oral-history-interview-evelyn-statsinger-16267/canvas/accompanying",
+      "type" : "Canvas",
+      "label" : {
+        "en" : [ "Audio Excerpt Icon" ]
+      },
+      "height" : 512,
+      "width" : 512,
+      "items" : [ {
+        "id" : "https://www.aaa.si.edu/collections/interviews/oral-history-interview-evelyn-statsinger-16267/canvas/accompanying/annotation/page",
+        "type" : "AnnotationPage",
+        "items" : [ {
+          "id" : "https://www.aaa.si.edu/collections/interviews/oral-history-interview-evelyn-statsinger-16267/canvas/accompanying/annotation/image",
+          "type" : "Annotation",
+          "motivation" : "painting",
+          "body" : {
+            "id" : "https://www.aaa.si.edu/edan_connect/static/images/audio-record-icon-512x512.png",
+            "type" : "Image",
+            "format" : "image/png",
+            "height" : 512,
+            "width" : 512
+          },
+          "target" : "https://www.aaa.si.edu/collections/interviews/oral-history-interview-evelyn-statsinger-16267/canvas/accompanying"
+        } ]
+      } ]
+    },
+    "items" : [ {
+      "id" : "https://www.aaa.si.edu/collections/interviews/oral-history-interview-evelyn-statsinger-16267/canvas/page/p1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://www.aaa.si.edu/collections/interviews/oral-history-interview-evelyn-statsinger-16267/canvas/page/annotation/segment1-audio",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://www.aaa.si.edu/assets/audio/OHProgram/Statsi15_1of2_sd_track02_m_e.mp3",
+          "type" : "Sound",
+          "duration" : 300.0,
+          "format" : "audio/mp3"
+        },
+        "target" : "https://www.aaa.si.edu/collections/interviews/oral-history-interview-evelyn-statsinger-16267/canvas/page/p1"
+      } ]
+    } ]
+  } ]
+}
