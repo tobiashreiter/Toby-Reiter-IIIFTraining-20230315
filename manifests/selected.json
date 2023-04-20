@@ -1,0 +1,1013 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://tobiashreiter.github.io/Toby-Reiter-IIIFTraining-20230315/manifests/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Selected Digitized Items from this Collection"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Collection Title"
+        ]
+      },
+      "value": {
+        "en": [
+          "3EP Ltd. records, 1970-1984, bulk 1979-1984"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://ids.si.edu/ids/iiif/AAA-AAA_3epltd_43550",
+      "type": "Image"
+    }
+  ],
+  "start": {
+        "id": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/1",
+        "type": "Canvas"
+  },  
+  "items": [
+    {
+      "id": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "1"
+        ]
+      },
+      "height": 3000,
+      "width": 2300,
+	 "thumbnail": [
+        {
+          "id": "https://ids.si.edu/ids/iiif/AAA-AAA_3epltd_43550/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/1/annotations",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/1/annotations/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/1",
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/AAA-AAA_3epltd_43550/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://ids.si.edu/ids/iiif/AAA-AAA_3epltd_43550",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "2"
+        ]
+      },
+      "height": 3000,
+      "width": 2300,
+	 "thumbnail": [
+        {
+          "id": "https://ids.si.edu/ids/iiif/AAA-AAA_3epltd_43551/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/2/annotations",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/2/annotations/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/2",
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/AAA-AAA_3epltd_43551/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://ids.si.edu/ids/iiif/AAA-AAA_3epltd_43551",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/3",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "3"
+        ]
+      },
+      "height": 3000,
+      "width": 2300,
+	 "thumbnail": [
+        {
+          "id": "https://ids.si.edu/ids/iiif/AAA-AAA_3epltd_43554/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/3/annotations",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/3/annotations/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/3",
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/AAA-AAA_3epltd_43554/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://ids.si.edu/ids/iiif/AAA-AAA_3epltd_43554",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/4",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "4"
+        ]
+      },
+      "height": 3000,
+      "width": 2300,
+	 "thumbnail": [
+        {
+          "id": "https://ids.si.edu/ids/iiif/AAA-AAA_3epltd_43555/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/4/annotations",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/4/annotations/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/4",
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/AAA-AAA_3epltd_43555/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://ids.si.edu/ids/iiif/AAA-AAA_3epltd_43555",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/5",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "5"
+        ]
+      },
+      "height": 3000,
+      "width": 2300,
+	 "thumbnail": [
+        {
+          "id": "https://ids.si.edu/ids/iiif/AAA-AAA_3epltd_43552/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/5/annotations",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/5/annotations/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/5",
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/AAA-AAA_3epltd_43552/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://ids.si.edu/ids/iiif/AAA-AAA_3epltd_43552",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/6",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "6"
+        ]
+      },
+      "height": 3000,
+      "width": 2300,
+	 "thumbnail": [
+        {
+          "id": "https://ids.si.edu/ids/iiif/AAA-AAA_3epltd_43553/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/6/annotations",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/6/annotations/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/6",
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/AAA-AAA_3epltd_43553/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://ids.si.edu/ids/iiif/AAA-AAA_3epltd_43553",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/7",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "7"
+        ]
+      },
+      "height": 3000,
+      "width": 2300,
+	 "thumbnail": [
+        {
+          "id": "https://ids.si.edu/ids/iiif/AAA-AAA_3epltd_43556/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/7/annotations",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/7/annotations/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/7",
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/AAA-AAA_3epltd_43556/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://ids.si.edu/ids/iiif/AAA-AAA_3epltd_43556",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/8",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "8"
+        ]
+      },
+      "height": 3000,
+      "width": 2300,
+	 "thumbnail": [
+        {
+          "id": "https://ids.si.edu/ids/iiif/AAA-AAA_3epltd_43557/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/8/annotations",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/8/annotations/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/8",
+              "body": {
+                "id": "https://ids.si.edu/ids/iiif/AAA-AAA_3epltd_43557/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://ids.si.edu/ids/iiif/AAA-AAA_3epltd_43557",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+	"structures": [
+	 	{
+	 	 	"id":"https://www.aaa.si.edu/collections/3ep-ltd-records-5717/item/1",
+	 	 	"type":"Range",
+	 	 	"label":{"en":["Mary Margaret \"Moo\" Anderson at her desk"]},
+	 	 	"items":[
+				{
+					"id":"https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/1",
+					"type":"Canvas"
+				},
+				{
+					"id":"https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/2",
+					"type":"Canvas"
+				}
+			],
+		  "metadata": [
+		    {
+		      "label": {
+		        "en": [
+		          "Item Title"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "Mary Margaret \"Moo\" Anderson at her desk"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Date"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "1981 Jun."
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Creator"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "3EP Ltd."
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Physical Details"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "1 photographic print : b&w ; 25 x 20 cm."
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Citation"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "3EP Ltd. Mary Margaret \"Moo\" Anderson at her desk, 1981 Jun.. 3EP Ltd. records, 1970-1984. Archives of American Art, Smithsonian Institution."
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Rights Statement"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "Current copyright status is undetermined"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Location"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "Archives of American Art, Smithsonian Institution Washington, D.C. 20560"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Forms part of"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "3EP Ltd. records, 1970-1984, bulk 1979-1984"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Identification"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "Item ID: 15358"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Permalink"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "<a href=\"https://www.aaa.si.edu/collections/items/detail/mary-margaret-moo-anderson-her-desk-15358\">https://www.aaa.si.edu/collections/items/detail/mary-margaret-moo-anderson-her-desk-15358</a>"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Terms of use"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "<a href=\"http://si.edu/termsofuse\" target=\"_blank\">Smithsonian Terms of Use</a>"
+		        ]
+		      }
+		    }
+		  ]
+		},
+	 	{
+	 	 	"id":"https://www.aaa.si.edu/collections/3ep-ltd-records-5717/item/2",
+	 	 	"type":"Range",
+	 	 	"label":{"en":["Mary Margaret Anderson and Sam Francis"]},
+	 	 	"items":[
+				{
+					"id":"https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/3",
+					"type":"Canvas"
+				},
+				{
+					"id":"https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/4",
+					"type":"Canvas"
+				}
+			],
+		  "metadata": [
+		    {
+		      "label": {
+		        "en": [
+		          "Item Title"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "Mary Margaret Anderson and Sam Francis"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Date"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "1981-1982"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Creator"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "Unidentified"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Physical Details"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "1 photographic print : col. ; 10 x 13 cm."
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Citation"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "Mary Margaret Anderson and Sam Francis, 1981-1982. 3EP Ltd. records, 1970-1984. Archives of American Art, Smithsonian Institution."
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Rights Statement"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "Current copyright status is undetermined"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Location"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "Archives of American Art, Smithsonian Institution Washington, D.C. 20560"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Forms part of"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "3EP Ltd. records, 1970-1984, bulk 1979-1984"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Identification"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "Item ID: 15360"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Permalink"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "<a href=\"https://www.aaa.si.edu/collections/items/detail/mary-margaret-anderson-and-sam-francis-15360\">https://www.aaa.si.edu/collections/items/detail/mary-margaret-anderson-and-sam-francis-15360</a>"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Terms of use"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "<a href=\"http://si.edu/termsofuse\" target=\"_blank\">Smithsonian Terms of Use</a>"
+		        ]
+		      }
+		    }
+		  ]
+			
+		},
+	 	{
+	 	 	"id":"https://www.aaa.si.edu/collections/3ep-ltd-records-5717/item/3",
+	 	 	"type":"Range",
+	 	 	"label":{"en":["Sam Francis"]},
+	 	 	"items":[
+				{
+					"id":"https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/5",
+					"type":"Canvas"
+				},
+				{
+					"id":"https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/6",
+					"type":"Canvas"
+				}
+			],
+		  "metadata": [
+		    {
+		      "label": {
+		        "en": [
+		          "Item Title"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "Sam Francis"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Date"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "1981-1982"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Creator"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "Unidentified"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Physical Details"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "1 photographic print : b&w ; 25 x 20 cm."
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Citation"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "Sam Francis, 1981-1982. 3EP Ltd. records, 1970-1984. Archives of American Art, Smithsonian Institution."
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Rights Statement"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "Current copyright status is undetermined"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Location"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "Archives of American Art, Smithsonian Institution Washington, D.C. 20560"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Forms part of"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "3EP Ltd. records, 1970-1984, bulk 1979-1984"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Identification"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "Item ID: 15359"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Permalink"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "<a href=\"https://www.aaa.si.edu/collections/items/detail/sam-francis-15359\">https://www.aaa.si.edu/collections/items/detail/sam-francis-15359</a>"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Terms of use"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "<a href=\"http://si.edu/termsofuse\" target=\"_blank\">Smithsonian Terms of Use</a>"
+		        ]
+		      }
+		    }
+		  ]
+		},
+	 	{
+	 	 	"id":"https://www.aaa.si.edu/collections/3ep-ltd-records-5717/item/4",
+	 	 	"type":"Range",
+	 	 	"label":{"en":["Ed Moses"]},
+	 	 	"items":[
+				{
+					"id":"https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/7",
+					"type":"Canvas"
+				},
+				{
+					"id":"https://www.aaa.si.edu/collections/3ep-ltd-records-5717/canvas/8",
+					"type":"Canvas"
+				}
+			],
+		  "metadata": [
+		    {
+		      "label": {
+		        "en": [
+		          "Item Title"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "Ed Moses"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Date"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "1982 Feb."
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Creator"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "Unidentified"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Physical Details"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "1 photographic print : b&w ; 25 x 20 cm."
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Citation"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "Ed Moses, 1982 Feb.. 3EP Ltd. records, 1970-1984. Archives of American Art, Smithsonian Institution."
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Rights Statement"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "Current copyright status is undetermined"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Location"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "Archives of American Art, Smithsonian Institution Washington, D.C. 20560"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Forms part of"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "3EP Ltd. records, 1970-1984, bulk 1979-1984"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Identification"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "Item ID: 15361"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Permalink"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "<a href=\"https://www.aaa.si.edu/collections/items/detail/ed-moses-15361\">https://www.aaa.si.edu/collections/items/detail/ed-moses-15361</a>"
+		        ]
+		      }
+		    },
+		    {
+		      "label": {
+		        "en": [
+		          "Terms of use"
+		        ]
+		      },
+		      "value": {
+		        "en": [
+		          "<a href=\"http://si.edu/termsofuse\" target=\"_blank\">Smithsonian Terms of Use</a>"
+		        ]
+		      }
+		    }
+		  ]
+		}
+	],
+	"rendering": [
+		{
+			"id": "https://aaastaff.si.edu/tests/iiif/manifests/selected.json",
+			"type": "Text",
+			"label": {
+				"en": [
+					"IIIF Manifest"
+				]
+			},
+			"format": "application/json"
+		}
+	]
+}
+
+
+
